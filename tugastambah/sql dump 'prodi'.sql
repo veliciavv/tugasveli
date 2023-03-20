@@ -31,8 +31,8 @@ CREATE TABLE `mahasiswa` (
 /*Data for the table `mahasiswa` */
 
 insert  into `mahasiswa`(`NIM`,`Namamhs`,`Alamatmhs`,`Kontakmhs`) values 
-('2105541084','David Samuel Sitorus','Jimbaran','kecoaxx23'),
-('2105551104','Velicia Varrel Valiant','Jimbaran','velicia2412');
+('2105541084','David Samuel Sitorus','Jimbaran','kecoaxx'),
+('2105551104','Velicia Varrel Valiant','Jimbaran','veliciavv');
 
 /*!40101 SET SQL_MODE=@OLD_SQL_MODE */;
 /*!40014 SET FOREIGN_KEY_CHECKS=@OLD_FOREIGN_KEY_CHECKS */;
