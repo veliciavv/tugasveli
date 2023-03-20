@@ -1,0 +1,14 @@
+<html>  
+<body bgcolor="#c1eabe">
+
+<form action="formm.php" method="POST">
+<b>Nama        :</b> <br> <input type="text" name="nama"><br>
+<b>NIM         :</b> <br> <input type="text" name="nim"><br>
+<b>Universitas :</b> <br> <input type="text" name="univ"><br>
+<b>Fakultas    :</b> <br> <input type="text" name="fakultas"><br>
+<b>Prodi       :</b> <br> <input type="text" name="prodi"><br><br>
+<input type="submit">
+</form>
+
+</body>
+</html>
